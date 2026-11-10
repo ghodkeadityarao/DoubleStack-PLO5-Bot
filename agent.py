@@ -35,7 +35,7 @@ from game import Action, AgentConfig, HandResult, Observation, Street
 warmup()
 
 # Names reported to the judge
-PARTICIPANT = "TwoStack"
+PARTICIPANT = "Poker Bot"
 AGENT_NAME = "DoubleStack"
 
 

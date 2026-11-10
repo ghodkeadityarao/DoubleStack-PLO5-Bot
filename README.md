@@ -76,7 +76,7 @@ python judge_engine.py --seed 1              # the referee plays 2 x 1,000 deals
 Example output:
 
 ```
-agent1 = TwoStack / DoubleStack (http://localhost:5008)
+agent1 = Poker Bot / DoubleStack (http://localhost:5008)
 agent2 = Baseline / RandomBot (http://localhost:5009)
 agent1: +10.536 bb/deal  (std 22.89, stderr 0.724)
 RESULT: AGENT1_WIN
